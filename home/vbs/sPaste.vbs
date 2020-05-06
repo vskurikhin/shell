@@ -1,3 +1,4 @@
+Rem http://forum.ixbt.com/topic.cgi?id=23:27165
 Sub sPaste()
   Set oWord = CreateObject("Word.Application")
     oWord.Documents.Add
